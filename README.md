@@ -1,2 +1,2 @@
-# oai-web
+# oai_web
 Odoo Addons Improvement - Web
